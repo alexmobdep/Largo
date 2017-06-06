@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498628525902",
+    "firebase_url": "https://largo-b1310.firebaseio.com",
+    "project_id": "largo-b1310",
+    "storage_bucket": "largo-b1310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498628525902:android:eb9c3ea41c4218ec",
+        "android_client_info": {
+          "package_name": "com.example.alex.largo.largo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498628525902-5ppdq8dcskqkr67befvrmlp8d84dl5mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alex.largo.largo",
+            "certificate_hash": "beaed25322411eae653eee2cce94d0f486045b32"
+          }
+        },
+        {
+          "client_id": "498628525902-acinapea8mcocob136fmfm85g8cvtu3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDRguFGS0qIc9R57aIXOTNxyaFbaLhRAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498628525902-acinapea8mcocob136fmfm85g8cvtu3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

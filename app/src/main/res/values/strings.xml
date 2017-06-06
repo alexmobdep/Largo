@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Largo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="registration_ask_text_view">Please, enter email and password for signing/registration.</string>
+    <string name="email_hint_ed">Email here</string>
+    <string name="password_here_hint">Password here</string>
+    <string name="facebook_app_id">1434424389941221</string>
+    <string name="send">Send</string>
+    <string name="title_activity_meets">MeetsActivity</string>
+</resources>
